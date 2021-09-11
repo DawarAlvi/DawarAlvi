@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DawarAlvi.
-- 👀 I’m interested in Game Development and 3D Graphics.
+- 👀 I’m interested in :video_game: **Game Development**, :penguin: **Linux** and :art: **3D Graphics**.
 - 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on a 3d puzzle/adventure game
-- 📫 How to reach me dawar.alvi.da@gmail.com
+- 📫 How to reach me syeddawaralvi@gmail.com
 
 <!---
 DawarAlvi/DawarAlvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
