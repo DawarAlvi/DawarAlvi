@@ -14,13 +14,8 @@
 
 <h3 align="center">:video_game: Game Developer  :penguin: Linux Enthusiast  :art: 3D Artist </h3>
 
-<br />
 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/C%23-5027D5?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+
 
 <br />
 
@@ -28,6 +23,14 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Unreal-001651?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/Play Canvas-E34F26?style=for-the-badge&logo=playcanvas&logoColor=white">
+</div>
+
+<br />
+
+<div align="center"> 
+  <img src="https://img.shields.io/badge/C%23-5027D5?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 
