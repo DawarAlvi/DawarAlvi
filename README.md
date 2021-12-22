@@ -9,6 +9,5 @@
 
 <h3 align="center">:video_game: Game Developer  :penguin: Linux Enthusiast  :art: 3D Artist </h3>
 
-<div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-Dawar_Alvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.linkedin.com/in/dawar-alvi-658217205/)
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Dawar_Alvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.linkedin.com/in/dawar-alvi-658217205/)
+
