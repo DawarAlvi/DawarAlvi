@@ -9,13 +9,10 @@
 <br />
 
 <div align="center">
-<img src="https://img.shields.io/badge/-Dawar_Alvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/">
+  <img src="https://img.shields.io/badge/-Dawar_Alvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/">
 </div>
 
 <h3 align="center">:video_game: Game Developer  :penguin: Linux Enthusiast  :art: 3D Artist </h3>
-
-
-
 
 <br />
 
@@ -33,7 +30,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-
 <br />
 
-<div align="center"> Made with :heart: &nbsp;using GitHub Markdown by Dawar </div>
+<div align="center"><samp>Made with :heart: using GitHub Markdown</samp></div>
