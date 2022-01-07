@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dawar Alvi </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/DawarAlvi/DawarAlvi/main/img/Hi.gif" width="30px">, I am Dawar Alvi </h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Game%20Dev-blue" /> &nbsp;
@@ -8,8 +8,14 @@
 
 <br />
 
+
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-Dawar_Alvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.linkedin.com/in/dawar-alvi-658217205/)
+  [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Qiskit&logoColor=white&link=https://dawar-portfolio.web.app/)](https://dawar-portfolio.web.app/)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.instagram.com/syed_dawar_alvi)
+  
 </div>
 
 <h3 align="center">:video_game: Game Developer  :penguin: Linux Enthusiast  :art: 3D Artist </h3>
