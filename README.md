@@ -24,7 +24,7 @@
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Unreal-001651?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/SDL2-001651?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
   <img src="https://img.shields.io/badge/Blender-E34F26?style=for-the-badge&logo=blender&logoColor=white">
 </div>
