@@ -24,17 +24,16 @@
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/SDL2-001651?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-E34F26?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/SDL2-001651?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-53a4e0?style=for-the-badge&logo=godot&logoColor=white">
+  <img src="https://img.shields.io/badge/Roblox-101113?style=for-the-badge&logo=roblox&logoColor=white">
 </div>
 
 <br />
 
 <div align="center"> 
-  <img src="https://img.shields.io/badge/C%23-5027D5?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-E34F26?style=for-the-badge&logo=blender&logoColor=white">
 </div>
 
 <br />
