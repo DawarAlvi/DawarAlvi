@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/DawarAlvi/DawarAlvi/main/img/Hi.gif" width="30px">, I am Dawar Alvi </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/DawarAlvi/DawarAlvi/main/img/Hi.gif" width="30px">, I'm Dawar Alvi </h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Game%20Dev-blue" /> &nbsp;
