@@ -8,7 +8,7 @@
   
   <br /> 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.linkedin.com/in/dawar-alvi-658217205/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.linkedin.com/in/dawaralvi/)
   [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Qiskit&logoColor=white&link=https://dawaralvi.netlify.app/)](https://dawaralvi.netlify.app/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.instagram.com/syed_dawar_alvi)
 
