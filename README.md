@@ -9,14 +9,13 @@
   <br /> 
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.linkedin.com/in/dawaralvi/)
-  [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Qiskit&logoColor=white&link=https://dawaralvi.netlify.app/)](https://dawaralvi.netlify.app/)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/dawar-alvi-658217205/)](https://www.instagram.com/syed_dawar_alvi)
+  [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Qiskit&logoColor=white&link=https://dawaralvi.github.io/)](https://dawaralvi.github.io/)
 
   <h3 align="center">👨‍💻 Software Engineer  🐧 Linux Enthusiast  🎨 3D Artist </h3>
 
   <br />
 
-  <img src="https://img.shields.io/badge/NodeJs-233056?style=for-the-badge&logo=nodedotjs&logoColor=green">
+  <img src="https://img.shields.io/badge/ReactJs-ffffff?style=for-the-badge&logo=react&logoColor=blue">
   <img src="https://img.shields.io/badge/C%23 Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/C++ SDL2-001651?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <!--
